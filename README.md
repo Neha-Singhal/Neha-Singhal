@@ -17,7 +17,7 @@
 ---
 
 ### 📫 Connect with Me:
-- 🌍 **GitHub:** [github.com/your-username](https://github.com/your-username)
+- 🌍 **GitHub:** [github.com/your-username](https://github.com/Neha-Singhal)
 - 📝 **Portfolio:** _Coming Soon..._  
 - 💬 **Let's Chat!** Open to discussions and collaborations.  
 
