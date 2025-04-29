@@ -10,7 +10,7 @@
 ---
 
 ### 📚 Tech Stack:
-- 💻 **Languages:** Python, HTML, CSS  
+- 💻 **Languages:** Python, HTML, CSS, SQL, SQLAlchemy,Flask, FASTAPI 
 - ⚙️ **Tools & Technologies:** Git, GitHub, Flask, Bootstrap  
 - 📊 **Learning Next:** JavaScript, React, AI frameworks (TensorFlow, PyTorch)  
 
