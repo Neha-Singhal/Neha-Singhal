@@ -1,27 +1,30 @@
-# 👋 Hi there! I'm [Your Name] 
+# 👋 Hi, I'm Neha Singhal  
+**Aspiring Backend Engineer | MasterSchool Software Engineering Bootcamp**  
 
-**Backend Engineer | MasterSchool Software Engineering Bootcamp**  
+🔨 **Building:** [Social Assistance Finder App] - A [Flask/FastAPI] API for [Purpose] with [Tech Used, e.g., JWT Auth, PostgreSQL]  
 
-🔹 **Proficient in:** Python, Flask, SQL, APIs, and database design  
-🔹 **Skilled in:** Root cause analysis, data integrity, and cross-functional collaboration  
-🔹 **Focus:** Writing clean, testable, and scalable backend code  
+🔹 **Proficient in:** Python, Flask, FastAPI, SQL, SQLAlchemy, RESTful APIs  
+🔹 **Skilled in:** Root cause analysis, data integrity, cross-functional collaboration  
+🔹 **Focus:** Clean, testable, and scalable backend code  
 
-🌱 **Currently advancing** my expertise in:  
+🌱 **Advancing expertise in:**  
 - Real-world engineering best practices  
-- System design & microservices architecture  
-- DevOps tools (Docker, CI/CD)  
----
+- System design & microservices  
+- DevOps (Docker, CI/CD)  
 
-### 📚 Tech Stack:
-- 💻 **Languages:** Python, HTML, CSS, SQL, SQLAlchemy,Flask, FASTAPI 
-- ⚙️ **Tools & Technologies:** Git, GitHub, Flask, Bootstrap  
----
+### **🛠️ Tech Stack**  
 
-### 📫 Connect with Me:
-- 🌍 **GitHub:** [github.com/your-username](https://github.com/Neha-Singhal)
-- 📝 **Linkedin:** _ www.linkedin.com/in/nehasinghal9 
-- 💬 **Let's Chat!** Open to discussions and collaborations.  
+#### **Languages & Frameworks**  
+🐍 **Python** | 🌐 **HTML/CSS** | 🗃️ **SQL**  
+🔥 **FastAPI** | 🧪 **Flask** | 🔄 **SQLAlchemy**  
 
----
+#### **Tools & Platforms**  
+🔄 **Git** | 💾 **GitHub** | 🐳 **Docker**  
+🚀 **Bootstrap** | 🤖 **CI/CD** | ☁️ **AWS (Learning)**  
 
-⭐️ **Fun Fact:** _"Every expert was once a beginner."_ 🚀
+📫 **Connect with Me:**  
+🔗 [LinkedIn](www.linkedin.com/in/nehasinghal9)  
+✉️ **Let’s chat!** Open to collaborations & discussions  
+
+⭐ **Fun Fact:** "Every expert was once a beginner." 🚀  
+
