@@ -1,19 +1,20 @@
 # 👋 Hi there! I'm [Your Name] 
 
-💡 **About Me:**  
-- 🔥 Passionate about learning **AI, Python, HTML, and CSS**  
-- 🚀 Currently building cool projects and improving my coding skills  
-- 🎯 Exploring **Machine Learning & Web Development**  
-- 🌱 Learning **APIs, Data Science, and AI tools**  
-- 💻 Looking for collaborations on **Python and AI projects**  
+**Backend Engineer | MasterSchool Software Engineering Bootcamp**  
 
+🔹 **Proficient in:** Python, Flask, SQL, APIs, and database design  
+🔹 **Skilled in:** Root cause analysis, data integrity, and cross-functional collaboration  
+🔹 **Focus:** Writing clean, testable, and scalable backend code  
+
+🌱 **Currently advancing** my expertise in:  
+- Real-world engineering best practices  
+- System design & microservices architecture  
+- DevOps tools (Docker, CI/CD)  
 ---
 
 ### 📚 Tech Stack:
 - 💻 **Languages:** Python, HTML, CSS, SQL, SQLAlchemy,Flask, FASTAPI 
 - ⚙️ **Tools & Technologies:** Git, GitHub, Flask, Bootstrap  
-- 📊 **Learning Next:** JavaScript, React, AI frameworks (TensorFlow, PyTorch)  
-
 ---
 
 ### 📫 Connect with Me:
